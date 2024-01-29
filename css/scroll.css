@@ -1,0 +1,16 @@
+.sec {
+    position: relative;
+    padding: 100px;
+    background: #1c0522;
+}
+
+.sec h2 {
+    font-size: 3.5em;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.sec p {
+    font-size: 1.2em;
+    color: white;
+}
